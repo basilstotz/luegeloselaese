@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Lose Luege Läse
+Exec=/usr/share/bin/luegeloselaese
+Icon=lll.png
+Type=Application
+Categories=Education
+

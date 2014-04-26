@@ -1,0 +1,4 @@
+./luegeloselaese-data/usr/share/prop/luegeloselaese ./usr/share/prop/
+./luegeloselaese-data/usr/share/applications/*.desktop ./usr/share/applications/
+./luegeloselaese-data/usr/share/pixmaps/* ./usr/share/pixmaps/
+./luegeloselaese-data/usr/share/bin/* ./usr/share/bin/
